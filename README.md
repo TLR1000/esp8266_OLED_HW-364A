@@ -11,10 +11,11 @@
 
 
 ## Technical specs
-- SDA is D6 / GPIO14
-- SCL is D5 / GPIO12
+- ! SDA is D6 / GPIO14
+- ! SCL is D5 / GPIO12
 - Address is 0x3C
-
+- Full pinout:
+![AHT20_BMP280 logo](https://github.com/peff74/esp8266_OLED_HW-364A/blob/main/pinout.jpg)
 
 ## Code using Adafruit_SSD1306
 ```
